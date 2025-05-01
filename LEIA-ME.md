@@ -1,1 +1,0 @@
-<a href="https://leonardotmiguel.github.io/projeto-cordel/" target="blank">CLIQUE AQUI PARA ACESSAR A PÁGINA</a>
